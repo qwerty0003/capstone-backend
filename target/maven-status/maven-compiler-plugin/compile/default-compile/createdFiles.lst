@@ -19,6 +19,7 @@ it\AziendaAgricolaBack\services\ProdottoAgricoloService.class
 it\AziendaAgricolaBack\controllers\ProdottoAgricoloController.class
 it\AziendaAgricolaBack\entities\ProdottoAgricolo$ProdottoAgricoloBuilder.class
 it\AziendaAgricolaBack\configs\EmailConfig.class
+it\AziendaAgricolaBack\configs\OpenApiConfig.class
 it\AziendaAgricolaBack\auth\payload\JWTAuthResponse.class
 it\AziendaAgricolaBack\AziendaAgricolaBackApplication.class
 it\AziendaAgricolaBack\repos\ProdottoAgricoloRepo.class
